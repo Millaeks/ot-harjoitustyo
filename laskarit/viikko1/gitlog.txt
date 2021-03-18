@@ -1,0 +1,114 @@
+miek@lx0-fuxi083:~/ot_viikko1/tiedostoja$ git log --stat|cat
+commit 123907d3c6a2c40139918158daafed720858f969
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:48:51 2021 +0200
+
+    viimeiset muutokset
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit e6ab4331796204ddb140e17dcbf9b9533cde1ae9
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:40:36 2021 +0200
+
+    uusi hakemisto lisätty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 82314eacc2c47cf049fb87a62f9b87473b86fe99
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:28:40 2021 +0200
+
+    tarkistettu muutokset
+
+ eka.txt    | 7 +------
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 7 deletions(-)
+
+commit 4f79a78ea2a0c040a83ace9a3bc39fb223cecf61
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:26:14 2021 +0200
+
+    tiedoston uudelleennimeäminen
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 452e1d964111a4bf3f1e156ce79ed4a01d813fbb
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:23:30 2021 +0200
+
+    toinen-txt poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit de132294af82ccd6feb18d54ccc0fb757035ea98
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:20:41 2021 +0200
+
+    tekstin poisto ja lisäys
+
+ tiedosto.txt | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+commit 550672f1a8dc0a6f107d18b9fc1640aa17553ec9
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:18:56 2021 +0200
+
+    tekstin lisäys
+
+ tiedosto.txt | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+
+commit 0c39847897898f0133e57c481e786c80f18b64bb
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:14:14 2021 +0200
+
+    lisäyslisäys
+
+ stuff/hello.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b35da0d7bf8dceddeef967173d50289a5bc3a9d4
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:12:00 2021 +0200
+
+    Lisää muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 918f8869109f37755aac26f4f948b7e0e64cb34c
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:08:36 2021 +0200
+
+    kolmas lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 57dd75de0469466e34062c3f05e6845b6aa6e6da
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:03:51 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 4bde87b2ff36656cf9caef9e5855b90f799f8f31
+Author: Milla Ekström <milla.ekstrom@helsinki.fi>
+Date:   Thu Mar 18 12:00:25 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
